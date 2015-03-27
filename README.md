@@ -1,2 +1,4 @@
 # hello_world
-Familiarizing myself with GitHub
+
+Hi Everyone!
+I'm Lauren.  I love programming, art, cosplay, video games, general tinkering, etc...
